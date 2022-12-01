@@ -1,0 +1,4 @@
+{
+  "cookiecutter_name": "",
+  "project_slug": "{{ cookiecutter.cookiecutter_name.lower()|replace(' ', '-')|replace('_', '-')|replace('.', '-')|trim() }}"
+}
